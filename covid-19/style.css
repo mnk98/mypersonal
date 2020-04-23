@@ -770,4 +770,13 @@ button:disabled,button:disabled:hover {
   border-color: #fbc600;
   color: black !important;
 }
+.latest-info{
+  background: black;
+    color: white;
+    padding: 30px 10px;
+    font-size: 25px;
+}
+.count{
+  color:red;
+}
 
